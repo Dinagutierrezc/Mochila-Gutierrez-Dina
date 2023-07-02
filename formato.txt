@@ -1,0 +1,9 @@
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos
+sistemas operativos y en otros no?.
+R:Bueno todo esto depende del compilador del sistema operativo, la sintaxis y/o arquitectura del lenguaje, el tipo de lenguaje (si es de alto o bajo nivel)y tambien depende de que interpretacion le da el S.O al lenguaje.
+¿Qué tipo de máquina virtual es virtualBox?.
+R:es un software de virtualizacion donde podemos emular diferentes sitemas operativos, con el fin de probar nuestras aplicaciones, comandos o simplemente para conocer la estructura del S.O
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las
+demás? ¿por qué?
+R:No pasaria nada, ya que la maquina virtual trabaja de manera independiente a la maquina real, ya que es un software y por tal motivo si algo falla en ella no afectara al funcionamiento del resto del equipo.
+
